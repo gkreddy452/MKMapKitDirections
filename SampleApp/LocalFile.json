@@ -1,0 +1,53 @@
+{
+    "results" : [
+                 {
+                 "lat" : 51.5007,
+                 "lng" :  0.1246,
+                 "mainText" : "Big Ben",
+                 "subText" : "London SW1A 0AA",
+                 "fullText" : "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London and is usually extended to refer to both the clock and the clock tower.",
+                 "imageName" : "BigBen.jpg"
+                 },
+                 {
+                 "lat" : 51.5014,
+                 "lng" :  0.1419,
+                 "mainText" : "Backingham Palace",
+                 "subText" : "London SW1A 1AA",
+                 "fullText" : "Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality.",
+                 "imageName" : "BuckinghamPalace.jpg"
+                 },
+                 {
+                 "lat" : 51.5033,
+                 "lng" :  0.1195,
+                 "mainText" : "London Eye",
+                 "subText" : "London SE1 7PB",
+                 "fullText" : "The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London. The structure is 443 feet tall and the wheel has a diameter of 394 feet. When it opened to the public in 2000 it was the world's tallest Ferris wheel.The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London. The structure is 443 feet tall and the wheel has a diameter of 394 feet. When it opened to the public in 2000 it was the world's tallest Ferris wheel.The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London. The structure is 443 feet tall and the wheel has a diameter of 394 feet. When it opened to the public in 2000 it was the world's tallest Ferris wheel.",
+                 "imageName" : "LondonEye.jpg"
+                 },
+                 {
+                 "lat" : 51.5138,
+                 "lng" :  0.0984,
+                 "mainText" : "St Paul's Cathedral",
+                 "subText" : "London EC4M 8AD",
+                 "fullText" : "St Paul's Cathedral, London, is an Anglican cathedral, the seat of the Bishop of London and the mother church of the Diocese of London. It sits on Ludgate Hill at the highest point of the City of London and is a Grade 1 listed building.St Paul's Cathedral, London, is an Anglican cathedral, the seat of the Bishop of London and the mother church of the Diocese of London. It sits on Ludgate Hill at the highest point of the City of London and is a Grade 1 listed building.St Paul's Cathedral, London, is an Anglican cathedral, the seat of the Bishop of London and the mother church of the Diocese of London. It sits on Ludgate Hill at the highest point of the City of London and is a Grade 1 listed building.",
+                 "imageName" : "St-Pauls.jpg"
+                 },
+                 {
+                 "lat" : 51.5055,
+                 "lng" :  0.0754,
+                 "mainText" : "Tower Bridge",
+                 "subText" : "London SE1 2UP",
+                 "fullText" : "Tower Bridge is a combined bascule and suspension bridge in London built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London, Tower Bridge is a combined bascule and suspension bridge in London built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London, Tower Bridge is a combined bascule and suspension bridge in London built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London",
+                 "imageName" : "TowerBridge.jpg"
+                 },
+                 {
+                 "lat" : 51.4993,
+                 "lng" :  0.1273,
+                 "mainText" : "West minster Abbey",
+                 "subText" : "London SW1P 3PA",
+                 "fullText" : "Westminster Abbey, formally titled the Collegiate Church of St Peter at Westminster, is a large, mainly Gothic abbey church in the City of Westminster, London, just to the west of the Palace of Westminster.Westminster Abbey, formally titled the Collegiate Church of St Peter at Westminster, is a large, mainly Gothic abbey church in the City of Westminster, London, just to the west of the Palace of Westminster.Westminster Abbey, formally titled the Collegiate Church of St Peter at Westminster, is a large, mainly Gothic abbey church in the City of Westminster, London, just to the west of the Palace of Westminster.",
+                 "imageName" : "WestminsterAbbey.jpg"
+                 }
+                ],
+    "status" : "OK"
+}
